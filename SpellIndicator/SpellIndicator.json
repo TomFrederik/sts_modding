@@ -1,0 +1,10 @@
+{
+  "id": "SpellIndicator",
+  "name": "Spell Indicator",
+  "author": "TomFrederik",
+  "description": "Shows status effect icons above the player when holding cards that apply those effects",
+  "version": "1.0.0",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": false
+}
