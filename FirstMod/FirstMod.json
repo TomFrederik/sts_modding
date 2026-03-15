@@ -1,0 +1,10 @@
+{
+  "id": "FirstMod",
+  "name": "FirstMod",
+  "author": "TomFrederik",
+  "description": "Test mod - BurningBlood heals 12 instead of 6",
+  "version": "1.0.0",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": true
+}

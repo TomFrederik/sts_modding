@@ -1,0 +1,17 @@
+# Build outputs
+.godot/
+bin/
+obj/
+
+# Generated PCK (keep the source, not the output)
+*.pck
+
+# Godot internal files
+*.uid
+export_presets.cfg
+
+# Old/backup files
+*.old
+
+# Old manifest format (using <mod_id>.json now)
+mod_manifest.json
